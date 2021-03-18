@@ -19,9 +19,11 @@ In the vehicle showroom there are 3 types of vehicles
   - Heavy Vehicles.
   
 For "Normal Vehicle" There is no extra property, so it will have all the descriptions as above described descriptions of a "Vehicle".
+
 For "Sports Vehicle" There are two extra properties or attributes you can say. And these are :
   1. turbo
   2. engine type is oil only
+
 For "Heavy Vehicle" There are also two extra properties or attributes you can say. And these are :
   1. weight
   2. engine type is diesel only
