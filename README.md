@@ -29,15 +29,16 @@ For "Heavy Vehicle" There are also two extra properties or attributes you can sa
   2. engine type is diesel only
 
 Now, your system should be able to have following functionalities:
-  a. Add any type of vehicle in showroom.
-  b. Remove any of the vehicles from showroom.
-  c. Show the vehicle lists with details currently have in showroom.
+
+  a) Add any type of vehicle in showroom.
+  b) Remove any of the vehicles from showroom.
+  c) Show the vehicle lists with details currently have in showroom.
   
 Here comes the exciting part. Without visitors a vehicle showroom is not good, right?
 The regular expected visitor count of the vehicle showroom is 30.
 But whenever we add a new "Sports Vehicle" in the showroom the expected visitor count increase by 20.
 So here comes a new functionality to your system:
-  d. Show the list of vehicles with current expected visitor count
+  d) Show the list of vehicles with current expected visitor count
   
 There is no boundary regarding the console panel representation. You should represent it in your creative way.
 You can also add extra properties to your vehicle details if you need and even the data types for the attributes are all to you.
