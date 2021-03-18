@@ -5,12 +5,14 @@ A vehicle showroom system built with "Builder Design Pattern", implemented with 
 Make a Command Line System for Vehicle Showroom. As it is a vehicle showroom, so it will have some vehicles in it. A "Vehicle" has following descriptions:
   1. model number
   2. engine type
+    
     There are three types of engines
       a) oil
       b) gas
       c) diesel
   3. engine power
   4. tire size
+
 In the vehicle showroom there are 3 types of vehicles
   - Normal Vehicles, 
   - Sports Vehicles & 
