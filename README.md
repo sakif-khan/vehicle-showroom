@@ -12,9 +12,9 @@ Make a Command Line System for Vehicle Showroom. As it is a vehicle showroom, so
   3. engine power
   4. tire size
 In the vehicle showroom there are 3 types of vehicles
-  Normal Vehicles, 
-  Sports Vehicles & 
-  Heavy Vehicles.
+  - Normal Vehicles, 
+  - Sports Vehicles & 
+  - Heavy Vehicles.
   
 For "Normal Vehicle" There is no extra property, so it will have all the descriptions as above described descriptions of a "Vehicle".
 For "Sports Vehicle" There are two extra properties or attributes you can say. And these are :
